@@ -1,2 +1,1 @@
-module.exports.clientFetch = require("./lib/clientFetch");
-module.exports.clientCreate = require("./lib/clientCreate");
+module.exports = require("./lib/client");
